@@ -1,6 +1,6 @@
 // WorldTimeAPI - веб-сервис, который возвращает текущее местное
 // время для данного часового пояса в виде простого текста или JSON
-export const BASE_URL = "http://worldtimeapi.org/api";
+export const BASE_URL = "https://worldtimeapi.org/api";
 
 
 // Запрос, в результате которого возвращается текущее местное время на основе IP
