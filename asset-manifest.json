@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/test-applab-native/static/js/main.e959340d.chunk.js",
+    "main.js.map": "/test-applab-native/static/js/main.e959340d.chunk.js.map",
+    "runtime-main.js": "/test-applab-native/static/js/runtime-main.44a1291c.js",
+    "runtime-main.js.map": "/test-applab-native/static/js/runtime-main.44a1291c.js.map",
+    "static/js/2.247d4750.chunk.js": "/test-applab-native/static/js/2.247d4750.chunk.js",
+    "static/js/2.247d4750.chunk.js.map": "/test-applab-native/static/js/2.247d4750.chunk.js.map",
+    "index.html": "/test-applab-native/index.html",
+    "precache-manifest.dfc5a1c593af0120d83fabed8aa968e3.js": "/test-applab-native/precache-manifest.dfc5a1c593af0120d83fabed8aa968e3.js",
+    "service-worker.js": "/test-applab-native/service-worker.js",
+    "static/js/2.247d4750.chunk.js.LICENSE.txt": "/test-applab-native/static/js/2.247d4750.chunk.js.LICENSE.txt",
+    "static/media/checkMark.svg": "/test-applab-native/static/media/checkMark.b9e134d3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a1291c.js",
+    "static/js/2.247d4750.chunk.js",
+    "static/js/main.e959340d.chunk.js"
+  ]
+}
