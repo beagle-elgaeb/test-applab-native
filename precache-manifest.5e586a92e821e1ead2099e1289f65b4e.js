@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93b061eab39615e573490fb9c79252f6",
+    "revision": "e3d61b6a13752ebd35f0e078fdccb703",
     "url": "/test-applab-native/index.html"
   },
   {
