@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7bea472b593b6ef305365a637a94315",
+    "revision": "93b061eab39615e573490fb9c79252f6",
     "url": "/test-applab-native/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-applab-native/static/js/2.247d4750.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "863edaaf48bc4ce66b7e",
-    "url": "/test-applab-native/static/js/main.e959340d.chunk.js"
+    "revision": "35158c800ba33787743a",
+    "url": "/test-applab-native/static/js/main.9825f0e5.chunk.js"
   },
   {
     "revision": "1c30a7553cb5e45e1fd1",
